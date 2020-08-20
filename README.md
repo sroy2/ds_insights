@@ -14,7 +14,8 @@ notes, scripts, and insights not to forget
 
 ## Exploration/visualization:
 - [ ] pandas_profiling
-- [ ] ??
+- [ ] matplotlib
+- [ ] seaborn
 
 ## Model Selection:
 - [ ] Logistic Regression
